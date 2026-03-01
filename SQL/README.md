@@ -1,10 +1,10 @@
-*** SQL 50 – LeetCode Practice ***
+#SQL 50 – LeetCode Practice
 
 This folder contains solutions to the LeetCode SQL 50 Study Plan problems.
 
 The goal is to strengthen SQL fundamentals for coding interviews and data-related roles.
 
-📌 Topics Covered
+##📌 Topics Covered
 
 Basic SELECT queries
 
@@ -26,6 +26,6 @@ CASE statements
 
 Window functions (RANK, DENSE_RANK, ROW_NUMBER)
 
-🧩 Problems Solved (LeetCode SQL 50)
+##🧩 Problems Solved (LeetCode SQL 50)
 
 1. Combine Two Tables
